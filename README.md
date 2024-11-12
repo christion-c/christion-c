@@ -1,4 +1,5 @@
-## Hi there 👋
+## Christion Callahan👋
+## Student at Atlas School
 
 <!--
 **christion-c/christion-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
